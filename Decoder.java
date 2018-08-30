@@ -1,3 +1,5 @@
+//Meant as a future decoder of compressed file. It is currently used as converting General pixels to "RGB" or "RGBA" pixels
+
 import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
